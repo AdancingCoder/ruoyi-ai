@@ -320,8 +320,8 @@ websocket:
 spring:
   ai:
     openai:
-      api-key: sk-xx
-      base-url: https://api.pandarobot.chat/
+      api-key: sk-xR0EKKuhBmtwrtpIA58b386a6e8940F581086e00C36dE991
+      base-url: https://api.laozhang.ai/
     mcp:
       client:
         enabled: false
@@ -343,7 +343,7 @@ vector-store:
   # Weaviate配置
   weaviate:
     protocol: http
-    host: 127.0.0.1:6038
+    host: 192.168.0.152:8080
     classname: LocalKnowledge
   # Milvus配置
   milvus:

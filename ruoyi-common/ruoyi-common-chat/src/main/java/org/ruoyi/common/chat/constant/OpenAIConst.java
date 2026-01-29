@@ -6,7 +6,7 @@ package org.ruoyi.common.chat.constant;
  */
 public class OpenAIConst {
 
-    public final static String OPENAI_HOST = "https://api.openai.com/";
+    public final static String OPENAI_HOST = "https://api.laozhang.ai/";
 
     public final static String apiUrl = "v1/chat/completions";
 
